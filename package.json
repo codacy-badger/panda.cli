@@ -1,0 +1,27 @@
+{
+  "name": "panda.cli",
+  "description": "panda.cli is a ComandLineTool to work more productive ",
+  "version": "0.1.0",
+  "author": "kramerbastian",
+  "main": "main.js",
+  "homepage": "https://github.com/turtle-todo/turtle",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turtle-todo/turtle.git"
+  },
+  "bin": {
+    "panda": "main.js"
+  },
+  "dependencies": {
+    "@amphibian/remove-from-array": "^2.0.3",
+    "@caporal/core": "^2.0.2",
+    "inquirer": "^7.2.0",
+    "jsonfile": "^6.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}

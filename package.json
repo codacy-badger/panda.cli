@@ -1,5 +1,5 @@
 {
-  "name": "panda.cli",
+  "name": "@panda-todo/panda.cli",
   "description": "panda.cli is a ComandLineTool to work more productive ",
   "version": "0.1.0",
   "author": "kramerbastian",

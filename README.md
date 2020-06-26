@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/kramerbastian/images/raw/master/8762.jpg" height="150" width="auto">
+  <img src="https://github.com/kramerbastian/images/raw/master/622.png" height="150" width="auto">
 </p>
-
-# ⚠️ **BETA**
 
 ***
 
